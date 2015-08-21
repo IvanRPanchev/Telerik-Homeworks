@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+	font-family: Helvetica;
+	font-size: 15px;
+	font-weight: normal;
+}
+div#container {
+    margin: 0;
+    padding: 13px;
+    width: 405px;
+    border: none;
+    border-radius: 10px;
+    background-color: #eeeeee;
+}
+img {
+	float: left;
+	height: 87px;
+	width: 136px;
+	padding-right: 15px;
+}
+article {
+	margin: 35px 0 10px 0;
+	position: relative;
+	border: 1px solid gray;
+	background: white;
+	padding: 15px;
+	overflow: auto;
+	font-size: 13.5px;
+	font-family: Arial;
+}
+.listen , .add {
+	border: none;
+	float: right;
+	margin-top: 15px;
+	width: 75px;
+	height: 25px;
+	color: white;
+	background-image: url(images/button.png);
+}
+.listen {
+	margin-right: 3px;
+}
+button:hover {
+	background-image: url(images/buttonHover.png);
+}

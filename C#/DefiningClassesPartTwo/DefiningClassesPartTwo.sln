@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coordinates", "Coordinates\Coordinates.csproj", "{F9DD3752-4898-4FA6-A5A0-CB5C584ED4AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{6FBE5746-025B-4D9F-891B-4F493C906370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "Matrix\Matrix.csproj", "{14C3B375-338F-4668-BF12-01D3A5C21CB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9DD3752-4898-4FA6-A5A0-CB5C584ED4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DD3752-4898-4FA6-A5A0-CB5C584ED4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DD3752-4898-4FA6-A5A0-CB5C584ED4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DD3752-4898-4FA6-A5A0-CB5C584ED4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBE5746-025B-4D9F-891B-4F493C906370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBE5746-025B-4D9F-891B-4F493C906370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBE5746-025B-4D9F-891B-4F493C906370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBE5746-025B-4D9F-891B-4F493C906370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C3B375-338F-4668-BF12-01D3A5C21CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C3B375-338F-4668-BF12-01D3A5C21CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C3B375-338F-4668-BF12-01D3A5C21CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C3B375-338F-4668-BF12-01D3A5C21CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

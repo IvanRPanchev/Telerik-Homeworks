@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassChef", "06.ControlFlowConditionalStatementsAndLoops\ClassChef.csproj", "{0BF921A0-1F79-41D5-B730-662FB88C4952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactorStatement", "02.RefactorStatement\RefactorStatement.csproj", "{BB31662E-672E-4466-A9A6-51C951822C6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactorLoop", "RefactorLoop\RefactorLoop.csproj", "{6C5B9B35-72ED-4281-9958-267BE5C93305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF921A0-1F79-41D5-B730-662FB88C4952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF921A0-1F79-41D5-B730-662FB88C4952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF921A0-1F79-41D5-B730-662FB88C4952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF921A0-1F79-41D5-B730-662FB88C4952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB31662E-672E-4466-A9A6-51C951822C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB31662E-672E-4466-A9A6-51C951822C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB31662E-672E-4466-A9A6-51C951822C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB31662E-672E-4466-A9A6-51C951822C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C5B9B35-72ED-4281-9958-267BE5C93305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5B9B35-72ED-4281-9958-267BE5C93305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5B9B35-72ED-4281-9958-267BE5C93305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5B9B35-72ED-4281-9958-267BE5C93305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

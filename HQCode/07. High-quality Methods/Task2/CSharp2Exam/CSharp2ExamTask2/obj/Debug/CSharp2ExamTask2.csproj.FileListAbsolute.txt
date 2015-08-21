@@ -1,0 +1,6 @@
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\CSharp2Exam\CSharp2ExamTask2\bin\Debug\CSharp2ExamTask2.exe.config
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\CSharp2Exam\CSharp2ExamTask2\bin\Debug\CSharp2ExamTask2.exe
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\CSharp2Exam\CSharp2ExamTask2\bin\Debug\CSharp2ExamTask2.pdb
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\CSharp2Exam\CSharp2ExamTask2\obj\Debug\CSharp2ExamTask2.csprojResolveAssemblyReference.cache
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\CSharp2Exam\CSharp2ExamTask2\obj\Debug\CSharp2ExamTask2.exe
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\CSharp2Exam\CSharp2ExamTask2\obj\Debug\CSharp2ExamTask2.pdb

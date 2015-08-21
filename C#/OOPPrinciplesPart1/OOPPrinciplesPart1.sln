@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolClasses", "SchoolClasses\SchoolClasses.csproj", "{647AE4A5-5197-4A3A-85F9-B866D51C2301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsAndWorkers", "StudentsAndWorkers\StudentsAndWorkers.csproj", "{7F293498-A988-4924-8F8A-280723A38294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo", "Zoo\Zoo.csproj", "{B7BEE09F-187B-4BFD-A3E3-C5E141976320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{647AE4A5-5197-4A3A-85F9-B866D51C2301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647AE4A5-5197-4A3A-85F9-B866D51C2301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647AE4A5-5197-4A3A-85F9-B866D51C2301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647AE4A5-5197-4A3A-85F9-B866D51C2301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F293498-A988-4924-8F8A-280723A38294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F293498-A988-4924-8F8A-280723A38294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F293498-A988-4924-8F8A-280723A38294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F293498-A988-4924-8F8A-280723A38294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7BEE09F-187B-4BFD-A3E3-C5E141976320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BEE09F-187B-4BFD-A3E3-C5E141976320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BEE09F-187B-4BFD-A3E3-C5E141976320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BEE09F-187B-4BFD-A3E3-C5E141976320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

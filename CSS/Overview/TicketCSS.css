@@ -1,0 +1,49 @@
+body {
+	font-family: Arial;
+	text-align: left;
+}
+table {
+	 background-color:#5f5f5f;
+	 width: 300px;
+	 height: 200px;
+	 border: 0;
+}
+th {
+	color:#afafaf;
+	font-size: 17px;
+	font-weight: normal;
+	padding-bottom: 5px;
+}
+td {
+	
+	font-size: 10px;
+	vertical-align: top;
+}
+td:first-child {
+	font-style: italic;
+    font-weight: bold;
+    color: #CCCCCC;
+    width: 30%;
+}
+.yellow {
+	color:yellow;
+	text-decoration: none;
+}
+.red {
+	color:red;
+	font-weight: bold;
+}
+.gray{
+	color:#9f9f9f;
+}
+.orange{
+	color:orange;
+}
+#name:before{
+	content:"•";
+    font-size:30px;
+    line-height:10px;
+    vertical-align:top;
+    color:green;
+	
+}

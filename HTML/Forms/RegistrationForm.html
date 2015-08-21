@@ -1,0 +1,94 @@
+<!Doctype = html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <title>Problem 1. Registration form</title>
+</head>
+<body>
+	<form method = "post">
+		<table border = "1">
+			<tfoot >
+				<tr>
+					<td id="footer" colspan="4" align = "center" >
+						<input type="submit" value="Submit"/>
+						<input type="reset" value="Clear This Form"/>
+					</td>
+				</tr>
+			</tfoot>
+		<tbody>
+			<tr>
+				<th>Last Name</th>
+				<td><input type="text" name="lname" required/></td>
+			</tr>
+			<tr>
+				<th>First Name</th>
+				<td><input type="text" name="fname" required/></td>
+			</tr>
+			<tr>
+				<th>Adress</th>
+				<td><textarea rows ="5"name="adress" cols = "50"></textarea></td>
+			</tr>
+			<tr>
+				<th>City</th>
+				<td><input type="text"name="city" required/>
+					State <input type="text" required/>
+				</td>
+			</tr>
+			<tr>
+				<th>Zip/Postal Code</th>
+				<td><input type="text"name="postcode" required/></td>
+			</tr>
+			<tr>
+				<th>Country</th>
+				<td>
+					<select name="country">
+						<option>Bulgaria</option>
+						<option>Greece</option>
+						<option>Turkey</option>
+						<option>Macedonia</option>
+						<option>Romania</option>
+						<option>Serbia</option>
+					</select>
+				</td>
+			</tr>	
+			<tr>
+				<th>Phone(country code, area code, number)</th>
+				<td>(+<input name="countrycode" size="3">) <input name="areacode"size = "3"> <input name="number"></td>
+			</tr>
+			<tr>
+				<th>E-mail</th>
+				<td><input type="text" name="email"required size = "50"/></td>
+			</tr>	
+			<tr>
+				<th>Birth date</th>
+				<td><input name="BirthDate" type="text" placeholder="дд.мм.гггг" required></td>
+			</tr>
+			<tr>
+				<th>Gender</th>
+				<td>
+					<select name="gender">
+                 	  	 <option>Male</option>
+                  		 <option>Female</option>
+                    </select>
+                </td>
+			</tr>
+			<tr>
+				<th required name="StartDate">Starting date</th>
+				<td>
+					<input type="radio" name="sdate" value="spring" />
+                        <label for="spring">Spring 2015</label>
+                        <input type="radio" name="sdate" value="summer" />
+                    <label for="summer">Summer 2015</label>
+				</td>
+			</tr>
+			<tr>
+				<th>Comments/Questions</th>
+				<td>
+					<textarea rows ="5" cols = "50" name="Comments"></textarea>
+				</td>
+			</tr>
+			</tbody>
+		</table>
+	</form>
+</body>	
+</html>

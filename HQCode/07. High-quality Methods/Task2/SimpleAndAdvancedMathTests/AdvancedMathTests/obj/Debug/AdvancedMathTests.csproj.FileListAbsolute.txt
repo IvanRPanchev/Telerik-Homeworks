@@ -1,0 +1,6 @@
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\SimpleAndAdvancedMathTests\AdvancedMathTests\bin\Debug\AdvancedMathTests.exe.config
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\SimpleAndAdvancedMathTests\AdvancedMathTests\bin\Debug\AdvancedMathTests.exe
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\SimpleAndAdvancedMathTests\AdvancedMathTests\bin\Debug\AdvancedMathTests.pdb
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\SimpleAndAdvancedMathTests\AdvancedMathTests\obj\Debug\AdvancedMathTests.exe
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\SimpleAndAdvancedMathTests\AdvancedMathTests\obj\Debug\AdvancedMathTests.pdb
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\SimpleAndAdvancedMathTests\AdvancedMathTests\obj\Debug\AdvancedMathTests.csprojResolveAssemblyReference.cache

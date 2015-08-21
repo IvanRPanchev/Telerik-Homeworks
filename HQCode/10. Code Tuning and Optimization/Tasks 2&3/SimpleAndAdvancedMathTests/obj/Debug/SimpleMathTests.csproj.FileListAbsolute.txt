@@ -1,0 +1,15 @@
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\SimpleAndAdvancedMathTests\SimpleAndAdvancedMathTests\bin\Debug\SimpleAndAdvancedMathTests.exe.config
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\SimpleAndAdvancedMathTests\SimpleAndAdvancedMathTests\obj\Debug\SimpleAndAdvancedMathTests.exe
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\SimpleAndAdvancedMathTests\SimpleAndAdvancedMathTests\obj\Debug\SimpleAndAdvancedMathTests.pdb
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\SimpleAndAdvancedMathTests\SimpleAndAdvancedMathTests\obj\Debug\SimpleMathTests.csprojResolveAssemblyReference.cache
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\SimpleAndAdvancedMathTests\SimpleAndAdvancedMathTests\bin\Debug\SimpleAndAdvancedMathTests.exe
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task2\SimpleAndAdvancedMathTests\SimpleAndAdvancedMathTests\bin\Debug\SimpleAndAdvancedMathTests.pdb
+C:\Users\MyAccount\Desktop\High-Quality-Code\10. Code Tuning and Optimization\Homework\SimpleAndAdvancedMathTests\SimpleAndAdvancedMathTests\bin\Debug\SimpleAndAdvancedMathTests.exe.config
+C:\Users\MyAccount\Desktop\High-Quality-Code\10. Code Tuning and Optimization\Homework\SimpleAndAdvancedMathTests\SimpleAndAdvancedMathTests\obj\Debug\SimpleAndAdvancedMathTests.exe
+C:\Users\MyAccount\Desktop\High-Quality-Code\10. Code Tuning and Optimization\Homework\SimpleAndAdvancedMathTests\SimpleAndAdvancedMathTests\obj\Debug\SimpleAndAdvancedMathTests.pdb
+C:\Users\MyAccount\Desktop\High-Quality-Code\10. Code Tuning and Optimization\Task 2&3\SimpleAndAdvancedMathTests\bin\Debug\SimpleAndAdvancedMathTests.exe.config
+C:\Users\MyAccount\Desktop\High-Quality-Code\10. Code Tuning and Optimization\Task 2&3\SimpleAndAdvancedMathTests\obj\Debug\SimpleAndAdvancedMathTests.exe
+C:\Users\MyAccount\Desktop\High-Quality-Code\10. Code Tuning and Optimization\Task 2&3\SimpleAndAdvancedMathTests\obj\Debug\SimpleAndAdvancedMathTests.pdb
+C:\Users\MyAccount\Desktop\Telerik\HQCode\10. Code Tuning and Optimization\Tasks 2&3\SimpleAndAdvancedMathTests\bin\Debug\SimpleAndAdvancedMathTests.exe.config
+C:\Users\MyAccount\Desktop\Telerik\HQCode\10. Code Tuning and Optimization\Tasks 2&3\SimpleAndAdvancedMathTests\obj\Debug\SimpleAndAdvancedMathTests.exe
+C:\Users\MyAccount\Desktop\Telerik\HQCode\10. Code Tuning and Optimization\Tasks 2&3\SimpleAndAdvancedMathTests\obj\Debug\SimpleAndAdvancedMathTests.pdb

@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+	font-family: "segoe UI";
+	padding: 5px;
+    margin: 5px;
+    font-size: 12px;
+}
+a {
+	color: black;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 13px;
+	margin: 2px 5px;
+}
+a:first-letter {
+	text-decoration: underline;
+}
+#main {
+	display: inline-block;
+
+}
+
+#main, #calcForm, #binary, #numbers, #word {
+	border: 1px solid #8b9bae;
+	border-radius: 2px;
+
+}
+
+#numbers {
+	margin: 6px 6px 0px 6px;
+	width: 96.5%;
+	padding-left: 7px;
+	color: #1A3558;
+}
+#bigForm {
+	margin: 6px 6px 0px 6px;
+}
+#EverythingElse {
+	width: 100%;
+	border-spacing: 6px;
+	color: #1A3558;
+	border-collapse: separate;
+	
+}
+#content {
+	padding: 5px;
+	background: linear-gradient(white, #D9E4F1);
+}
+#word, #binary {
+	padding: 2px 27px 2px 7px;
+	color:#1A3558;
+}
+
+button {
+	width: 100%;
+	height: 100%;
+	border: 1px solid #8b9bae;
+	border-radius: 2px;
+	color: #1A3558;
+
+}
+input[type="text"] {
+	width: 96.5%;
+	height: 12.3%;
+	text-align: right;
+	padding: 10px 5px 2px 5px;
+	font-size: 2.3em;
+	color: #1A3558;
+	background: linear-gradient(#D9E4F1, white);
+}
+#menu {
+	border-bottom: 1px solid #c1c5d3;
+	background: linear-gradient(white, #DEE3F3);
+}
+#EverythingElse .radioCell div {
+	padding: 2px 0;
+}
+#EverythingElse div input, #EverythingElse div label {
+	vertical-align: middle;
+}
+.inactive, .inactiveSpecial, .activeSpecial, .activeNumber, .inactiveLetters {
+	width: 37px;
+	height: 29px;
+}
+
+.inactive button, .inactiveLetters button {
+	border: 1px solid #b5c3d2;
+}
+
+.inactive button, .inactiveSpecial button, .inactiveLetters button {
+	background-color: transparent;
+}
+
+.inactiveSpecial button, .activeNumber button, .activeSpecial button ,  {
+	border: 1px solid gray;
+}
+.activeNumber button {
+	background: linear-gradient(to bottom,  #f7fbff 0%,#f2f6fa 50%,#eaf1f8 50%,#eaf1f8 100%); /* W3C */
+	
+}
+.activeSpecial button {
+	background: linear-gradient(to bottom,  #eff5fb 0%,#e0e9f2 50%,#d5e0ee 50%,#d5e0ee 100%)
+}
+.activeNumber button:hover, .activeSpecial button:hover{
+	border: 2px solid #fbe34c;
+	background: linear-gradient(to bottom,  #fef0e0 0%,#fde4cb 50%,#fbd178 50%,#fbed90 100%);
+}
+input[type="text"]:hover {
+	border: 2px solid #fbe34c;
+	background: white;
+}
+.inactiveLetters button, .activeNumber button {
+	font-size: 1.4em;
+}

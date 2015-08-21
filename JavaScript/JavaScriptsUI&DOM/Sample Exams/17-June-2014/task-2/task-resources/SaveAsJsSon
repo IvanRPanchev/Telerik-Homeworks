@@ -1,0 +1,54 @@
+function solve() {
+  return function (selector, isCaseSensitive) {
+  	selector = selector || false;
+  	selector.className = 'items-control';
+  	var root = document.querySelector(selector);
+
+  	//top
+  	var add = document.createElement('div');
+  	add.className = "add-controls";
+  	var inputElement = document.createElement('input');
+  	
+  	add.innerHTML = "Enter text";
+  	
+  	add.appendChild(inputElement);
+  	var topButton = document.createElement('button');
+  	topButton.className ="button";
+  	topButton.innerHTML = "Add";
+  	topButton.addEventListener("click", function() {
+  		var addedElement = document.createElement('div');
+  		var elementName = inputElement.value;
+  		addedElement.className= "list-item";
+  		addedElement.innerHTML= elementName;
+  		var addedElementButton = document.createElement('button');
+  		addedElementButton.innerHTML = "X";
+  		addedElementButton.className = "button";
+  		addedElement.appendChild(addedElementButton);
+  		resultListContainer.appendChild(addedElement);
+  	})
+  	add.appendChild(topButton);
+
+  	//TODO: button event
+
+  	//search
+	var search = document.createElement('div');
+	
+	search.innerHTML = "Search";
+	
+	var inputSearch = document.createElement('input');
+  	search.appendChild(inputSearch)
+
+
+  	//result
+  	var result = document.createElement('div');
+  	result.className = ("result-controls");
+  	var resultListContainer = document.createElement('div');
+  	resultListContainer.className = ("items-list");
+  	result.appendChild(resultListContainer);
+
+
+  	root.appendChild(add);
+  	root.appendChild(search);
+  	root.appendChild(result);
+  };
+}

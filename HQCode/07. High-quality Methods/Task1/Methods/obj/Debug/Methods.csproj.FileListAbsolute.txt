@@ -1,0 +1,10 @@
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Homework\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Homework\Methods\bin\Debug\Methods.exe
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Homework\Methods\bin\Debug\Methods.pdb
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Homework\Methods\obj\Debug\Methods.exe
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Homework\Methods\obj\Debug\Methods.pdb
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task1\Methods\obj\Debug\Methods.exe
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task1\Methods\obj\Debug\Methods.pdb
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task1\Methods\bin\Debug\Methods.exe
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task1\Methods\bin\Debug\Methods.pdb
+C:\Users\MyAccount\Desktop\Telerik\HQCode\07. High-quality Methods\Task1\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache

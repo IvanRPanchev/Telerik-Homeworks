@@ -1,0 +1,51 @@
+body{
+	background-color: #8f8f8f	;
+}
+body > header {
+	text-align: center;
+	color:beige;
+	font-size: 35px;
+}
+ul li {
+	list-style-type: none;
+	font-weight: bold;
+	font-size: 40px;
+}
+ul li a {
+	text-decoration: none;
+	color: #cfcfcf;
+}
+nav ul li a:hover{
+	
+	background-color: white;
+	text-decoration: underline;
+}
+nav ul li a.current{
+	
+	background-color: white;
+}
+nav ul li a.current:hover{
+	background-color: red	;
+}
+nav ul li:last-child{
+	text-decoration: underline;
+}
+section article header h1 {
+    color:beige;
+    font-size:40px;
+}
+p {
+    font-size:25px;
+}
+footer p {
+    font-size:21px;
+}
+section article footer p a {
+    text-decoration:none;
+    color:black;
+}
+body > footer {
+    text-align:center;
+    font-size:24px;
+    font-weight: bold;
+}
