@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+<students xmlns:student="urn:students">
+	<student>
+		<name>Gosho Goshev</name>
+		<sex>male</sex>
+		<birthDate>10/10/1990</birthDate>
+		<phone>+359887888888</phone>
+		<email>gosho.goshev@gosho.bg</email>
+		<course>Finance</course>
+		<specialty>Finance and financial analysis</specialty>
+		<facultyNumber>12002020</facultyNumber>
+		<takenExams>
+			<name>PTPP</name>
+			<tutor>Chobanov</tutor>
+			<grade>3</grade>
+		</takenExams>
+	</student>
+	<student>
+		<name>Tosho Toshev</name>
+		<sex>male</sex>
+		<birthDate>09/09/1990</birthDate>
+		<phone>+359887999999</phone>
+		<email>tosho.toshev@tosho.bg</email>
+		<course>MBA</course>
+		<specialty>Accounting</specialty>
+		<facultyNumber>12002121</facultyNumber>
+		<takenExams>
+			<name>Financial Accounting</name>
+			<tutor>Basheva</tutor>
+			<grade>3</grade>
+		</takenExams>
+	</student>
+</students>
